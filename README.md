@@ -5,6 +5,6 @@ This project is a Spotify clone created using HTML and CSS, aiming to replicate 
 > HTML ||
 > CSS
 
-![Screenshot 2023-08-04 212107](https://github.com/Sahil8564/Spotify-Clone/assets/136605579/274549b5-e3a9-4f64-b3ac-592600788aa8)
+![image](https://github.com/sainath161/Spotify-Clone/assets/71361447/cfe3f79a-4e0b-4193-b8f7-33a065db00d8)
 
-![Screenshot 2023-08-04 212200](https://github.com/Sahil8564/Spotify-Clone/assets/136605579/0303f0ee-f932-4c7d-8853-818c335c8e2f)
+![image](https://github.com/sainath161/Spotify-Clone/assets/71361447/2de0da7c-6f33-41ac-85ff-b554f93dee88)
